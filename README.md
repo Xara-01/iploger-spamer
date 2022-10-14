@@ -7,7 +7,10 @@
 <strong>
 >_xara iploger spamer is juste a ip loger spamer.
 <br>
-<p>put proxys in the proxy.txt and run setup.bat and you can launch the run.bat<p\>
+  
+<p align="center">
+<p>run setup.bat put proxys in the proxy.txt and you can launch the run.bat<p\>
+  
 <br><br><br>
 </strong>
 </p>
